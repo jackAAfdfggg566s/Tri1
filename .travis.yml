@@ -20,6 +20,6 @@ deploy:
   bucket_name: "elasticbeanstalk-us-east-1-854900650224" ### S3 bucket name
   bucket_path: "EBApptest" ### S3 folder name under S3 bucket above
   on:
-    branch: main
+    branch: master
   access_key_id: "AKIA4ODAMWDYNDSZIAQM"
   secret_access_key: "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"
